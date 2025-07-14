@@ -1,1 +1,2 @@
-Multi modal for AI fake news ,videos,images detection
+8 queen puzzle
+
